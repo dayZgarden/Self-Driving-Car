@@ -1,0 +1,46 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#verticalButtons{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    border:none;
+    border-radius: 5px;
+    padding: 5px 5px 7px 5px;
+    margin: 2px;
+    cursor: pointer;
+    background-color:rgb(192, 192, 192);
+    margin: 0 16px;
+    margin-top: 4px;
+}
+
+button:hover{
+    background-color: blue;
+}
+
+#carCanvas {
+    background: lightgray;
+}
+
+#networkCanvas {
+    background: black;
+}
+
+script:last-child {
+    display: none;
+}
+
+title{
+    display: none;
+}
