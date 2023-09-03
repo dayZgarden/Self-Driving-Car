@@ -2,11 +2,11 @@
 
 <br />
 <div align="center">
-  <a target="_blank" href="https://day-ztrivia.vercel.app/">
+  <a target="_blank" href="https://self-driving-car-zkah.vercel.app/">
     <img src="https://cdn.discordapp.com/attachments/880274195093811313/1147916517304967210/car.png" alt="Logo" width="1000" height="800">
   </a>
 
-<h3 align="center">dayZtrivia</h3>
+<h3 align="center">Self Driving Car</h3>
 
   <p align="center">
     HTML canvas manipulated with JavaScript creating a self-driving car utilizing a neural network, collisions, sensors, and local storage.
